@@ -3,6 +3,7 @@
   the user can also has the ability to open the led and also access the images mannually.
 
   <b>IMAGES:</b>
+  <br>
   <img src="https://raw.githubusercontent.com/ritheshjaston/desk_security/master/images/pic4.jpg"/>
-    <img src="https://raw.githubusercontent.com/ritheshjaston/desk_security/master/images/pic2.jpg"/>
-      <img src="https://raw.githubusercontent.com/ritheshjaston/desk_security/master/images/pic3.jpg"/>
+  <img src="https://raw.githubusercontent.com/ritheshjaston/desk_security/master/images/pic2.jpg"/>
+  <img src="https://raw.githubusercontent.com/ritheshjaston/desk_security/master/images/pic3.jpg"/>
